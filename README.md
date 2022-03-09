@@ -32,5 +32,7 @@ we propose a solution to the problem statement such that the individuals in need
 verify their identity with a Uid (Unique Identification) as per the country norms and regulations.
 For implementing the concept we use blockchain technology effectively with minimal paper work.
 
+### Ideation of our Solution
 
+<img src="https://github.com/mayurrkukreja/buggyBytes-TSEC-Hacks-2022/blob/main/assets/img/ideation.png?raw=true" width="620" height="420">
 
