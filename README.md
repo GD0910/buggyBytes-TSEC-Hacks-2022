@@ -50,6 +50,11 @@ Go to the project directory
 ```bash
   cd Donation-Management-Blockchain
 ```
+To open VSCode in current Directory
+
+```bash
+  code .
+```
 
 ### Dependencies (Windows - 64bit):
 
