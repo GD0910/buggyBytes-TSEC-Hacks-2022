@@ -80,3 +80,24 @@ Go to the project directory
 <img src="https://github.com/mayurrkukreja/Donation-Management-Blockchain/blob/main/assets/screenshots/9.png?raw=true" width="620" height="420">
 <img src="https://github.com/mayurrkukreja/Donation-Management-Blockchain/blob/main/assets/screenshots/10.png?raw=true" width="620" height="420">
 </details>
+
+
+
+## Run Project
+
+Once done with the environment setup locally, go to the
+local repository in your system.
+To run the project, you can open VSCode and Open the project
+with Live Server option.
+Test the project with the Website.
+If you face any issues, Kindly report the issue on my github
+repository.
+
+
+#### NOTE: 
+This project was built in a 24hr Hackathon. The Front-End might not
+be very attractive but it works fine.
+
+Feel free to contribute to this project, read CONTRIBUTING.md file carefully.
+
+(I am currently working on CONTRIBUTING.md file, it will be uploaded soon)
