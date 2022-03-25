@@ -56,3 +56,16 @@ Go to the project directory
 
 1. Metamask Extension
 2. Ganache 
+
+## Screenshots to setup project locally
+
+<details>
+    <summary> Click to Expand! </summary>
+    <br>
+<img src="https://github.com/mayurrkukreja/Donation-Management-Blockchain/blob/main/assets/screenshots/1.png?raw=true" width="620" height="420">
+<img src="https://github.com/mayurrkukreja/Donation-Management-Blockchain/blob/main/assets/screenshots/2.png?raw=true" width="620" height="420">
+<img src="https://github.com/mayurrkukreja/Donation-Management-Blockchain/blob/main/assets/screenshots/3.png?raw=true" width="620" height="420">
+<img src="https://github.com/mayurrkukreja/Donation-Management-Blockchain/blob/main/assets/screenshots/4.png?raw=true" width="620" height="420">
+<img src="https://github.com/mayurrkukreja/Donation-Management-Blockchain/blob/main/assets/screenshots/5.png?raw=true" width="620" height="420">
+<img src="https://github.com/mayurrkukreja/Donation-Management-Blockchain/blob/main/assets/screenshots/6.png?raw=true" width="620" height="420">
+</details>
