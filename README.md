@@ -57,7 +57,7 @@ Go to the project directory
 1. Metamask Extension
 2. Ganache 
 
-## Screenshots to setup project locally
+## Metamask and Ganache setup with Screenshots
 
 <details>
     <summary> Click to Expand! </summary>
@@ -68,4 +68,15 @@ Go to the project directory
 <img src="https://github.com/mayurrkukreja/Donation-Management-Blockchain/blob/main/assets/screenshots/4.png?raw=true" width="620" height="420">
 <img src="https://github.com/mayurrkukreja/Donation-Management-Blockchain/blob/main/assets/screenshots/5.png?raw=true" width="620" height="420">
 <img src="https://github.com/mayurrkukreja/Donation-Management-Blockchain/blob/main/assets/screenshots/6.png?raw=true" width="620" height="420">
+</details>
+
+## Remix IDE setup
+
+<details>
+    <summary> Click to Expand! </summary>
+    <br>
+<img src="https://github.com/mayurrkukreja/Donation-Management-Blockchain/blob/main/assets/screenshots/7.png?raw=true" width="620" height="420">
+<img src="https://github.com/mayurrkukreja/Donation-Management-Blockchain/blob/main/assets/screenshots/8.png?raw=true" width="620" height="420">
+<img src="https://github.com/mayurrkukreja/Donation-Management-Blockchain/blob/main/assets/screenshots/9.png?raw=true" width="620" height="420">
+<img src="https://github.com/mayurrkukreja/Donation-Management-Blockchain/blob/main/assets/screenshots/10.png?raw=true" width="620" height="420">
 </details>
