@@ -21,8 +21,6 @@ paperwork.
 
 - [@mayurrkukreja](https://github.com/mayurrkukreja)
 
-- [@jatin9323](https://github.com/jatin9323)
-
 
 ## Our aim as a team:
 
